@@ -1,7 +1,7 @@
 # Shakespeare
 Natural language processing on Shakespeare plays
 
-The first things I've made is a [Shiny app that uses tf-idf to compare the most distinctive words in different plays](https://sahelanth.shinyapps.io/Shakespeare/). 
+The first thing I've made is a [Shiny app that uses tf-idf to compare the most distinctive words in different plays](https://sahelanth.shinyapps.io/Shakespeare/). 
 
 The second is a way of producing a rhyming dictionary of Shakespeare characters; and of matching them to elements with similar pronunciation to make a riff on [Tom Lehrer's Elements song](https://www.youtube.com/watch?v=DYW50F42ss8). The rhyming is fine, the current implementation of matching character names to rhyming element names works but not well. 
 
